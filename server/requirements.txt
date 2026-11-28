@@ -2,3 +2,4 @@ numpy
 sounddevice
 faster-whisper
 ollama
+piper-tts
